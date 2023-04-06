@@ -15,32 +15,7 @@
 ![이미지설명문구](https://post-phinf.pstatic.net/MjAyMTA4MDZfMTY3/MDAxNjI4MjI2MTYxMjE0.Q9yZYiFh0PmYV-OVOg6P1JfTeNL-C8ibAJWk1Xkf_kcg.5Wmfee68aFssPAfxSCl0vXAhdZzav3KibawS7Jt226gg.JPEG/shutterstock_1315058102.jpg?type=w1200)
 
 ---
-## 3. To Do List
-* [x] 자기소개하기
-* [x] 이미지 넣기
 
----
-## 4. Code Block
-```python
-a = 1
-b = 1
-print(a+b)
-```
 
-***
 
-## 5. 출석표
-|         |   1주차  |   2주차  |
-|:--------|:-------:|--------:|
-|   1회차  |    O    |    O    |
-|   2회차  |         |    O    |
-|   3회차  |         |    O    |
-
-***
-
-## 6. 2차 함수 수식
-$$
-\begin{aligned}
-f(x)&=ax^2+bx+c\\
-\end{aligned}
-$$
+수정수정수정
